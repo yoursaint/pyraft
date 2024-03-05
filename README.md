@@ -1,6 +1,10 @@
 ## pyraft - Python raft implementation
 
-
+### Docker
+```
+docker build . -t pyraft
+docker run -it pyraft
+```
 
 ### pyraft
 
