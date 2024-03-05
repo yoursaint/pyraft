@@ -6,3 +6,4 @@ WORKDIR /pyraft
 RUN pip install kazoo
 
 ENV PYTHONPATH=/pyraft
+CMD ["sh"]
